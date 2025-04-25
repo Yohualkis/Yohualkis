@@ -1,6 +1,6 @@
 <!-- Encabezado con fondo personalizado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/dino-background.gif" alt="Dino Background" width="100%" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Background" width="100%" />
 </p>
 
 <!-- Título animado -->
