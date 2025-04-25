@@ -10,8 +10,7 @@
 
 <!-- Breve presentación -->
 <p align="center">
-  I'm a passionate developer who loves to build things for the web.  
-  Working with <strong>Blazor</strong>, <strong>.NET</strong>, and <strong>modern frontend tools</strong>.
+  El mejor, manito.
 </p>
 
 ---
